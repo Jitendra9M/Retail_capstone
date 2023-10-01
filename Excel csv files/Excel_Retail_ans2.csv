@@ -1,0 +1,15 @@
+,,,,,,Row Labels,Sum of TotalQuantity,Sum of AvgPrice
+,,,,,,Classic Cars,27262,109.53
+,,,,,,Motorcycles,10220,87.75
+,,,,,,Planes,8711,79.44
+,,,,,,Ships,5300,79.07
+,,,,,,Trains,2277,65.21
+,,,,,,Trucks and Buses,8321,91.95
+ProductLine,TotalQuantity,TotalPrice,AvgPrice,,,Vintage Cars,17824,78.08
+Classic Cars,27262,2986035.55,109.53,,,Grand Total,79915,591.03
+Trucks and Buses,8321,765089.58,91.95,,,,,
+Motorcycles,10220,896805.8,87.75,,,,,
+Planes,8711,692021.66,79.44,,,,,
+Ships,5300,419088.47,79.07,,,,,
+Vintage Cars,17824,1391758.33,78.08,,,,,
+Trains,2277,148482.65,65.21,,,,,

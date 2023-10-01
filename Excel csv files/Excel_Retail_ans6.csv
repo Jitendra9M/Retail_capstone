@@ -1,0 +1,12 @@
+,,,,,,,,,,Row Labels,Sum of TotalPrice,Sum of Avgprice
+,,,,,,,,,,Classic Cars,25576.38,71698.51
+,,,,,,,,,,1982 Lamborghini Diablo,25576.38,71698.51
+,,,,,,,,,,Motorcycles,28741.33,71698.51
+,,,,,,,,,,1982 Ducati 996 R,28741.33,71698.51
+,,,,,,,,,,Planes,33361.57,71698.51
+ProductLine,ProductName,AllOrder,TotalPrice,Rank,AvgOrder,Avgprice,,,,Boeing X-32A JSF,33361.57,71698.51
+Classic Cars,1982 Lamborghini Diablo,751,25576.38,1,786,71698.51,,,,Ships,35164.56,71698.51
+Motorcycles,1982 Ducati 996 R,779,28741.33,1,786,71698.51,,,,Pont Yacht,35164.56,71698.51
+Planes,Boeing X-32A JSF,748,33361.57,1,786,71698.51,,,,Vintage Cars,23160.47,71698.51
+Ships,Pont Yacht,699,35164.56,1,786,71698.51,,,,1936 Mercedes Benz 500k Roadster,23160.47,71698.51
+Vintage Cars,1936 Mercedes Benz 500k Roadster,641,23160.47,1,786,71698.51,,,,Grand Total,146004.31,358492.55

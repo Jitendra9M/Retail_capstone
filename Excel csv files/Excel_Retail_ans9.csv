@@ -1,0 +1,30 @@
+,,,,,,Row Labels,Sum of CreditLimit,Sum of AvgCredit,Sum of TotalOrders,Sum of AvgOrders
+,,,,,,"Anna's Decorations, Ltd",4958800,3558148.68,1469,1125
+,,,,,,"Australian Collectors, Co.",6451500,3558148.68,1926,1125
+,,,,,,Corporate Gift Ideas Co.,4305000,3558148.68,1447,1125
+,,,,,,"Dragon Souveniers, Ltd.",4463400,3558148.68,1524,1125
+,,,,,,Euro+ Shopping Channel,58948400,3558148.68,9327,1125
+,,,,,,La Rochelle Gifts,6264600,3558148.68,1832,1125
+,,,,,,Land of Toys Inc.,5630100,3558148.68,1631,1125
+,,,,,,L'ordine Souveniers,4734600,3558148.68,1280,1125
+,,,,,,Mini Gifts Distributors Ltd.,37890000,3558148.68,6366,1125
+,,,,,,Muscle Machine Inc,6648000,3558148.68,1775,1125
+,,,,,,Online Diecast Creations Co.,3882800,3558148.68,1248,1125
+,,,,,,Rovelli Gifts,5740800,3558148.68,1650,1125
+,,,,,,"Saveley & Henriot, Co.",5079900,3558148.68,1428,1125
+,,,,,,Souveniers And Things Co.,4291800,3558148.68,1601,1125
+CustomerName,CreditLimit,TotalOrders,AvgOrders,AvgCredit,,Grand Total,159289700,49814081.52,34504,15750
+Euro+ Shopping Channel,58948400,9327,1125,3558148.68,,,,,,
+Mini Gifts Distributors Ltd.,37890000,6366,1125,3558148.68,,,,,,
+Muscle Machine Inc,6648000,1775,1125,3558148.68,,,,,,
+"Australian Collectors, Co.",6451500,1926,1125,3558148.68,,,,,,
+La Rochelle Gifts,6264600,1832,1125,3558148.68,,,,,,
+Rovelli Gifts,5740800,1650,1125,3558148.68,,,,,,
+Land of Toys Inc.,5630100,1631,1125,3558148.68,,,,,,
+"Saveley & Henriot, Co.",5079900,1428,1125,3558148.68,,,,,,
+"Anna's Decorations, Ltd",4958800,1469,1125,3558148.68,,,,,,
+L'ordine Souveniers,4734600,1280,1125,3558148.68,,,,,,
+"Dragon Souveniers, Ltd.",4463400,1524,1125,3558148.68,,,,,,
+Corporate Gift Ideas Co.,4305000,1447,1125,3558148.68,,,,,,
+Souveniers And Things Co.,4291800,1601,1125,3558148.68,,,,,,
+Online Diecast Creations Co.,3882800,1248,1125,3558148.68,,,,,,

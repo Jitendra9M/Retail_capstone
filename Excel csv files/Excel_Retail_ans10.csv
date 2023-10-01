@@ -1,0 +1,55 @@
+,,,,,Row Labels,Sum of Rank
+,,,,,Australia,6
+,,,,,Classic Cars,2
+,,,,,Motorcycles,3
+,,,,,Vintage Cars,1
+,,,,,Austria,6
+,,,,,Classic Cars,1
+,,,,,Trucks and Buses,3
+,,,,,Vintage Cars,2
+,,,,,Denmark,6
+,,,,,Classic Cars,1
+,,,,,Ships,2
+,,,,,Vintage Cars,3
+,,,,,Finland,6
+,,,,,Classic Cars,1
+,,,,,Motorcycles,3
+Country,ProductLine,Rank,,,Planes,2
+Australia,Vintage Cars,1,,,France,6
+Australia,Classic Cars,2,,,Classic Cars,1
+Australia,Motorcycles,3,,,Motorcycles,2
+Austria,Classic Cars,1,,,Vintage Cars,3
+Austria,Vintage Cars,2,,,Germany,6
+Austria,Trucks and Buses,3,,,Classic Cars,1
+Denmark,Classic Cars,1,,,Planes,3
+Denmark,Ships,2,,,Vintage Cars,2
+Denmark,Vintage Cars,3,,,Ireland,6
+Finland,Classic Cars,1,,,Classic Cars,1
+Finland,Planes,2,,,Motorcycles,3
+Finland,Motorcycles,3,,,Planes,2
+France,Classic Cars,1,,,Italy,6
+France,Motorcycles,2,,,Classic Cars,3
+France,Vintage Cars,3,,,Planes,2
+Germany,Classic Cars,1,,,Vintage Cars,1
+Germany,Vintage Cars,2,,,Norway,6
+Germany,Planes,3,,,Classic Cars,2
+Ireland,Classic Cars,1,,,Trucks and Buses,1
+Ireland,Planes,2,,,Vintage Cars,3
+Ireland,Motorcycles,3,,,Singapore,6
+Italy,Vintage Cars,1,,,Classic Cars,1
+Italy,Planes,2,,,Trucks and Buses,2
+Italy,Classic Cars,3,,,Vintage Cars,3
+Norway,Trucks and Buses,1,,,Spain,6
+Norway,Classic Cars,2,,,Classic Cars,1
+Norway,Vintage Cars,3,,,Trucks and Buses,3
+Singapore,Classic Cars,1,,,Vintage Cars,2
+Singapore,Trucks and Buses,2,,,Switzerland,3
+Singapore,Vintage Cars,3,,,Classic Cars,1
+Spain,Classic Cars,1,,,(blank),2
+Spain,Vintage Cars,2,,,USA,6
+Spain,Trucks and Buses,3,,,Classic Cars,1
+Switzerland,Classic Cars,1,,,Motorcycles,3
+Switzerland,,2,,,Vintage Cars,2
+USA,Classic Cars,1,,,Grand Total,75
+USA,Vintage Cars,2,,,,
+USA,Motorcycles,3,,,,
